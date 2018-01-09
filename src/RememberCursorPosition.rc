@@ -39,13 +39,12 @@ BEGIN
 	BEGIN
 		BLOCK "040904b0"
 		BEGIN
-			VALUE	"CompanyName",	"Don HO don.h@free.fr\0"
-			VALUE	"FileDescription",	"Plugin template for Notepad++\0"
+			VALUE	"CompanyName",	"Flawid DSouza me@flawiddsouza.com\0"
+			VALUE	"FileDescription",	"A Plugin to Remember Last Cursor Position of Opened Files for Notepad++\0"
 			VALUE	"FileVersion",	VERSION_VALUE
-			VALUE	"InternalName",	"NppPluginTemplate.dll\0"
-			VALUE	"LegalCopyright",	"Copyright 2016 by Don HO\0"
-			VALUE	"OriginalFilename",	"NppPluginTemplate.dll\0"
-			VALUE	"ProductName",	"NppPluginTemplate\0"
+			VALUE	"InternalName",	"RememberCursorPosition.dll\0"
+			VALUE	"OriginalFilename",	"RememberCursorPosition.dll\0"
+			VALUE	"ProductName",	"RememberCursorPosition\0"
 			VALUE	"ProductVersion",	VERSION_VALUE
 		END
 	END
