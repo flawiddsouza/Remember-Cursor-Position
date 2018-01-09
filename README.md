@@ -4,7 +4,7 @@ A Notepad++ Plugin to remember the last known cursor position of all previously 
 
 ## Installation
 
-- Download the RememberCursorPosition.dll from Releases
+- Download RememberCursorPosition.dll from [Releases](https://github.com/flawiddsouza/Remember-Cursor-Position/releases/latest)
 - Copy it to Notepad++'s Plugins directory, usually located at C:\Program Files (x86)\Notepad++\plugins
 - Open Notepad++ to see if it has appeared under Plugins. If it has, the plugin is now active.
 
